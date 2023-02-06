@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-06T10:16:15 IST" name="Suite" finished-at="2023-02-06T10:16:32 IST" duration-ms="17815">
+    <groups>
+    </groups>
+    <test started-at="2023-02-06T10:16:15 IST" name="Test" finished-at="2023-02-06T10:16:32 IST" duration-ms="17815">
+      <class name="greenkartwebsite.GkSearchBoxTest">
+        <test-method is-config="true" signature="openwebsiteTest()[pri:0, instance:greenkartwebsite.GkSearchBoxTest@45ca843]" started-at="2023-02-06T10:16:10 IST" name="openwebsiteTest" finished-at="2023-02-06T10:16:12 IST" duration-ms="2140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openwebsiteTest -->
+        <test-method signature="SearchboxUIcheck()[pri:0, instance:greenkartwebsite.GkSearchBoxTest@45ca843]" started-at="2023-02-06T10:16:15 IST" name="SearchboxUIcheck" finished-at="2023-02-06T10:16:15 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchboxUIcheck -->
+        <test-method signature="Searchboxinputcheck()[pri:1, instance:greenkartwebsite.GkSearchBoxTest@45ca843]" started-at="2023-02-06T10:16:15 IST" name="Searchboxinputcheck" finished-at="2023-02-06T10:16:32 IST" duration-ms="17121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchboxinputcheck -->
+        <test-method signature="CheckChart()[pri:2, instance:greenkartwebsite.GkSearchBoxTest@45ca843]" started-at="2023-02-06T10:16:32 IST" name="CheckChart" finished-at="2023-02-06T10:16:32 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckChart -->
+        <test-method signature="TakeScreenshot()[pri:3, instance:greenkartwebsite.GkSearchBoxTest@45ca843]" started-at="2023-02-06T10:16:32 IST" name="TakeScreenshot" finished-at="2023-02-06T10:16:32 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeScreenshot -->
+        <test-method signature="Totalpriceanditems()[pri:4, instance:greenkartwebsite.GkSearchBoxTest@45ca843]" started-at="2023-02-06T10:16:32 IST" name="Totalpriceanditems" finished-at="2023-02-06T10:16:32 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Totalpriceanditems -->
+        <test-method is-config="true" signature="closewebsiteTest()[pri:0, instance:greenkartwebsite.GkSearchBoxTest@45ca843]" started-at="2023-02-06T10:16:32 IST" name="closewebsiteTest" finished-at="2023-02-06T10:16:32 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewebsiteTest -->
+      </class> <!-- greenkartwebsite.GkSearchBoxTest -->
+      <class name="greenkartwebsite.Protocommerce">
+        <test-method signature="Pc(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:greenkartwebsite.Protocommerce@757acd7b]" started-at="2023-02-06T10:16:15 IST" name="Pc" data-provider="logindata" finished-at="2023-02-06T10:16:16 IST" duration-ms="1880" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Athiban]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[athibanprakash1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[253127]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pc -->
+        <test-method signature="Pc(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:greenkartwebsite.Protocommerce@757acd7b]" started-at="2023-02-06T10:16:16 IST" name="Pc" data-provider="logindata" finished-at="2023-02-06T10:16:18 IST" duration-ms="1272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prakash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prakashathiban@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[athi25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pc -->
+      </class> <!-- greenkartwebsite.Protocommerce -->
+      <class name="greenkartwebsite.Practisepage">
+        <test-method is-config="true" signature="getpractisepage()[pri:0, instance:greenkartwebsite.Practisepage@11c9af63]" started-at="2023-02-06T10:16:12 IST" name="getpractisepage" finished-at="2023-02-06T10:16:15 IST" duration-ms="2840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpractisepage -->
+        <test-method signature="testelements(java.lang.String)[pri:0, instance:greenkartwebsite.Practisepage@11c9af63]" started-at="2023-02-06T10:16:15 IST" name="testelements" finished-at="2023-02-06T10:16:16 IST" duration-ms="1246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[athiban]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testelements -->
+        <test-method is-config="true" signature="closepractisepage()[pri:0, instance:greenkartwebsite.Practisepage@11c9af63]" started-at="2023-02-06T10:16:32 IST" name="closepractisepage" finished-at="2023-02-06T10:16:33 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closepractisepage -->
+      </class> <!-- greenkartwebsite.Practisepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
